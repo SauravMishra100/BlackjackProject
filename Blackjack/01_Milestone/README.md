@@ -65,5 +65,4 @@ You should hand in the following files on sakai
 -  `Card.java` (completed)
 -  `Deck.java` (completed)
 -  `Blackjack.java` (completed with testing code in `main()`)
--  blackjack.txt (design document)
 -  Any other files you need to support the above.
