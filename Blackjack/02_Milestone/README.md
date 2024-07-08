@@ -40,7 +40,7 @@ At the end of the 4 week project, you will be graded on the following deliverabl
 
 ### Milestone 2
 
-Write the program that you described in your previous milestone. Your main game loop should ask the user how many players, and allow that many players to play the game. You may assume a max of 6 players. You should allow your players to wager some amount of money on each play.
+Your main game loop should ask the user how many players, and allow that many players to play the game. You may assume a max of 6 players. You should allow your players to wager some amount of money on each play. Give functionality for hit and stand.
 
 Now that you have the basics of the game play, expand your game to include a wagering system. Give each player a bankroll to start with, then allow him/her to wager on the game. You should end the game with the output of each player's ending balance.
 
