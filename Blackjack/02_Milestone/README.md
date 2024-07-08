@@ -1,4 +1,4 @@
-# CS111 Project - Blackjack - Milestone 2
+# Blackjack - Milestone 2
 
 ## Project Description
 
